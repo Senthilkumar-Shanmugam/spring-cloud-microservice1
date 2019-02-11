@@ -3,7 +3,7 @@ package org.organization.service.model;
 import java.util.ArrayList;
 import java.util.List;
 
-class Department {
+public class Department {
 	private Long id;
 	private String name;
 	private List<Employee> employees = new ArrayList<>();
