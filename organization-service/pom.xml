@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>department-service</artifactId>
+	<artifactId>organization-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>department-service</name>
+	<name>organization-service</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -41,7 +41,6 @@
 			<artifactId>springfox-swagger2</artifactId>
 			<version>2.8.0</version>
 		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
